@@ -1,16 +1,17 @@
-### Hi there 👋
+<img src="https://i.esdrop.com/d/f/dTxR5z7aIl/kcrkeLzgWE.png">
 
-<!--
-**rowooncoding/rowooncoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi I'm Rowoon Coding Ronnie 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔭This is my technical blog 👉 ![](https://img.shields.io/badge/CodeBene-408294?style=flat-square&logo=Tistory&logoColor=white&link=https://codebene.tistory.com)<br><br>
+📫Contact Me 👉 ![](https://img.shields.io/badge/Naver%20Mail-11B48A?style=flat-square&logo=Naver&logoColor=white&link=https://velog.io/@new_wisdom)<br>
+
+<br/>
+<h2>🖥️Tech Stack🖥️</h2>
+
+<img src="https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=html5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=css3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Javascript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"/></a>
+
+![](https://capsule-render.vercel.app/api?height=160&section=footer)
