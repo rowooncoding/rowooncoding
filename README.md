@@ -14,4 +14,4 @@
 <img src="https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Javascript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"/></a>
 
-![](https://capsule-render.vercel.app/api?height=160&section=footer)
+
