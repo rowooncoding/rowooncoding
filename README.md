@@ -5,7 +5,7 @@
 
 
 🔭This is my technical blog 👉 https://velog.io/@rowooncoding<br><br>
-📫Contact Me 👉 ![](https://img.shields.io/badge/Naver%20Mail-11B48A?style=flat-square&logo=Naver&logoColor=white&link=https://velog.io/@new_wisdom)<br>
+📫Contact Me 👉 dev.rowoon@gmail.com<br>
 
 <br/>
 <h2>🖥️Tech Stack🖥️</h2>
