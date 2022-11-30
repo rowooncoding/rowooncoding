@@ -1,7 +1,7 @@
 <img src="https://i.esdrop.com/d/f/dTxR5z7aIl/kcrkeLzgWE.png">
 
 
-# Hi I'm Rowoon Coding Ronnie 👋
+# Hi I'm Rowoon dev Ronnie 👋
 
 
 🔭This is my technical blog 👉 ![](https://img.shields.io/badge/CodeBene-408294?style=flat-square&logo=Tistory&logoColor=white&link=https://https://velog.io/@rowooncoding)<br><br>
