@@ -4,7 +4,7 @@
 # Hi I'm Rowoon dev Ronnie 👋
 
 
-🔭This is my technical blog 👉 ![](https://img.shields.io/badge/CodeBene-408294?style=flat-square&logo=Tistory&logoColor=white&link=https://https://velog.io/@rowooncoding)<br><br>
+🔭This is my technical blog 👉 https://velog.io/@rowooncoding<br><br>
 📫Contact Me 👉 ![](https://img.shields.io/badge/Naver%20Mail-11B48A?style=flat-square&logo=Naver&logoColor=white&link=https://velog.io/@new_wisdom)<br>
 
 <br/>
