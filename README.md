@@ -9,9 +9,6 @@
 
 
 
-🔭This is my technical blog 👉 https://velog.io/@rowooncoding<br><br>
-📫Contact Me 👉 dev.rowoon@gmail.com<br>
-
 <br/>
 <h2>🖥️ Tech Stack 🖥️</h2>
 
@@ -36,5 +33,10 @@
 <br><br>
 <h2>🌳 Status 🌳</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=rowooncoding&show_icons=true">
+
+<br><br>
+<h2>👣 Contact 👣</h2>
+🔭This is my technical blog 👉 https://velog.io/@rowooncoding<br><br>
+📫Contact Me 👉 dev.rowoon@gmail.com<br>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:B983FF,100:99FEFF)
