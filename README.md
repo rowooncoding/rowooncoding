@@ -36,7 +36,7 @@
 
 <br><br>
 <h2>👣 Contact 👣</h2>
-🔭This is my technical blog 👉 https://velog.io/@rowooncoding<br><br>
+🔭This is my technical blog 👉 https://velog.io/@rowooncoding<br>
 📫Contact Me 👉 dev.rowoon@gmail.com<br>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:B983FF,100:99FEFF)
