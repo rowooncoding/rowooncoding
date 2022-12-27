@@ -2,6 +2,9 @@
 
 
 # Hi I'm Rowoon dev Ronnie 👋
+2022/11/28. LikeLion FE DEV School 4th
+
+---
 
 
 🔭This is my technical blog 👉 https://velog.io/@rowooncoding<br><br>
