@@ -20,7 +20,6 @@
 <!-- <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=React&logoColor=black"> -->
 <!-- <img src="https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=Python&logoColor=black"> -->
 </span>
-
 <br/><br/>
 <h2>🛠 Tools 🛠</h2>
 <span>
@@ -33,7 +32,6 @@
 <br><br>
 <h2>🌳 Status 🌳</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=rowooncoding&show_icons=true">
-
 <br><br>
 <h2>👣 Contact 👣</h2>
 🔭This is my technical blog 👉 https://velog.io/@rowooncoding<br>
