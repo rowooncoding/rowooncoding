@@ -2,6 +2,7 @@
 
 
 # Hi I'm Rowoon dev Ronnie 👋
+- **[2016 ~]** Soonchunhyan University, Economics and Finances
 - **[2022.11-2023.03]** LIKELION FRONT-END SCHOOL 4th
 
 ---
