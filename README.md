@@ -59,7 +59,10 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rowooncoding&&show_icons=true&theme=dark">
 <br><br>
 <h2>👣 Contact 👣</h2>
-🔭This is my technical blog 👉 https://velog.io/@rowooncoding<br>
-📫Contact Me 👉 dev.rowoon@gmail.com<br>
+🔭This is my technical blog<br> 
+👉 https://velog.io/@rowooncoding<br>
+👉 https://codebene.tistory.com<br><br> 
+📫Contact Me<br> 
+👉 dev.rowoon@gmail.com<br>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:B983FF,100:99FEFF)
