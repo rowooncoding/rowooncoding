@@ -8,7 +8,7 @@
 
 **[2016 ~]** Soonchunhyang University, Economics and Finances<br>
 **[2022.11-2023.03]** LIKELION FRONT-END SCHOOL 4th
-
+**[2023.07-2023.11]** SeSac 백엔드 구축을 위한 클라우드 기술활용 개발자 과정(JAVA 기반)
 
 
 <br/>
@@ -16,6 +16,7 @@
 
 <span>
 <img src="https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <br />
 <img src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
