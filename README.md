@@ -8,7 +8,7 @@
 
 **[2016 ~]** Soonchunhyang University, Economics and Finances<br>
 **[2022.11-2023.03]** LIKELION FRONT-END SCHOOL 4th<br>
-**[2023.07-2023.11]** SeSac 백엔드 구축을 위한 클라우드 기술활용 개발자 과정(JAVA 기반)
+**[2023.07-2023.11]** SeSac 백엔드 구축을 위한 클라우드 기술활용 개발자 과정(JAVA 기반)<br>
 **[2024.03-2024.08]** 세포아소프트 Tech 03 Team
 
 <br/>
