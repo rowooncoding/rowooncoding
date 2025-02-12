@@ -15,7 +15,9 @@
 <h2>🖥️ Front-end Tech Stack 🖥️</h2>
 
 <span>
+<img src="https://img.shields.io/badge/Expo-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/React-Native-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 
 <br />
 <img src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -31,6 +33,7 @@
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+
 </span>
 <br/><br/>
 <h2>🖥️ Back-end Tech Stack 🖥️</h2>
@@ -61,7 +64,6 @@
 <h2>👣 Contact 👣</h2>
 🔭This is my technical blog<br> 
 👉 https://velog.io/@rowooncoding<br>
-👉 https://codebene.tistory.com<br><br> 
 📫Contact Me<br> 
 👉 dev.rowoon@gmail.com<br>
 
